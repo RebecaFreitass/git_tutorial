@@ -7,8 +7,6 @@
     <title>Tutorial de git</title>
 </head>
 <body>
-    <h1>titulo</h1>
-    <p>estou aprendendo git</p>
-    <p>alguma coisa</p>
+    
 </body>
 </html>
